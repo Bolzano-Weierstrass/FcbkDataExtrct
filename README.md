@@ -24,5 +24,5 @@ import extraction_tool as et
 and then call the function 
 
 ```
-et.export_conv(('your_name', num_of_the_conv, path_to_conv_file)
+et.export_conv('your_name', num_of_the_conv, path_to_conv_file)
 ```
